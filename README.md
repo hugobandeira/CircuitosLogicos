@@ -1,1 +1,1 @@
-# CircuitosLogicos
+# Circuitos Lógicos
